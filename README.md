@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer-Churn-Analysis-Power BI
 The project aims to analyse the data and bring out few insights on the customer churn.
 
 # Data Dictionary
